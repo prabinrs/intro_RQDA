@@ -1,0 +1,943 @@
+Transcript 2 
+
+ 
+
+Participants: 
+
+Simon West (SW), interviewer 
+
+Sam (SAM), a mathematician and population modeler in the ecology department at 
+the University, and co-leader of the Wildlands adaptive management (AM) project 
+Val (VAL), a statistician and population modeler in the ecology department at the 
+University, and co-leader of the Wildlands adaptive management (AM) project 
+
+ 
+
+Location and timing: 
+
+A meeting room at the University, soon after the field trip 
+
+ 
+
+Transcript: 
+
+SW: So, the first question is: how was the trip for you guys? Was it useful? And did it 
+meet your expectations for what you would get out of the trip? 
+
+ 
+
+SAM: I think it was useful and I think we learned a lot from it, but compared to other 
+field trips I’ve done in the past it was quite unstructured. We didn’t know what to 
+expect when we got out there, so we planned a few methods and few different things 
+to try, and we took less measurements than I’d expected that we would – than I’d 
+hoped we would take. But that was the reality of the situation once we got there. 
+
+ 
+
+SW: What made it that way? What made us unable to do as many measurements do 
+you think? 
+
+ 
+
+VAL: Lack of seedlings, essentially … 
+
+ 
+
+SAM: Yeah … 
+
+ 
+SW: Did you think there would be more seedlings? 
+
+ 
+
+VAL: Yeah. Well maybe not ironwood, not that many, but the first day I didn’t see 
+any at all. Well one maybe. So that’s the thing that – in a way – blew the initial plans, 
+because we switched from testing some ways of measuring things into “let’s look for 
+where we get evidence of regeneration and what can we learn about that and how can 
+that help us in the future design surveys or target surveys.” So that bit of information 
+became more interesting and relevant than having ten instead of two repeats of these 
+measurements. 
+
+ 
+
+SW: Do you think it was surprising for the management staff – for the Authority – do 
+you think they would have expected more seedlings as well? 
+
+ 
+
+SAM: I don’t think so. I think they might not have expected more. Because the person 
+that we spoke to while we were there didn’t seem aware of some of the ones that we 
+
+
+visited. They thought that there were fewer, or that they were in worse condition, or 
+that they didn’t exist at all. Compared to what we noticed. Yeah, I think part of the 
+mismatch is – I can only speak for myself – but we come from the perspective of a 
+mathematician or a statistician, and when we think of a sampling design we’re 
+thinking about sampling and getting lots of units over space so that we can build a 
+reliable or robust picture of what’s happening over the landscape. And so sometimes 
+my mental picture of what a natural landscape looks like is not a realistic 
+representation of what actually happens out there. So, for example, you saw from the 
+maps and the way that we drove around that landscape too, these woodlands that 
+we’re interested in are really patchy. There’s all sorts of woodland and scrub that are 
+happening in between these pine-ironwood woodlands that we’re interested in, and 
+having someone like Logan take us around the different places too, and helping me to 
+notice these things … So for example the way in which the pine was occurring was 
+different in different places. So at one site we saw that it was very dense and they 
+were almost all the same height – there’d been one big event and they’d all grown 
+together. And in the other place we could see the pines at all different ages – from 
+five centimeters tall to things that had been there for many many decades. And the 
+place we went to on the first day was different again. It had a few older trees and a 
+bunch of munched on seedlings that were easy for us to notice and count. And so 
+thinking from a statistician’s point of view it was difficult for me to reconcile this 
+spatial variation and work out what to do with it. 
+
+ 
+
+SW: Yeah, that was fascinating for me as well. Just the variation of stands of 
+vegetation, and like you say, the difference in the actual make-up of the patches. Very 
+fragmented and very dispersed in the landscape. 
+
+ 
+
+VAL: So this highlights the value of these pilot trips or studies – because they can 
+change the way you think about the landscape and therefore the way you plan to 
+sample that landscape. 
+
+ 
+
+SW: Yeah, definitely. So with the sampling methods – will you be able to use the data 
+that we got to make recommendations in the report? Was it enough for you guys? 
+
+ 
+
+SAM: I don’t think … 
+
+ 
+
+VAL: … the thing is, what does “enough” mean? It’s not enough to do statistics based 
+on it. But then again, there’s aspects of that that we can use. 
+
+ 
+
+SAM: Yeah, and part of that was just practicing the methods and learning how long 
+they took, and learning what it is about the landscape you need to know in order to 
+perform the measurements. So, for example, we had these two different detailed 
+surveys that we planned. The ones where we built a big square around the central tree 
+and we had Logan and Riley doing belt transects through the middle. Then we had the 
+second one which was a big cross with a few subsamples. And they were both 
+
+
+intended to be detailed surveys but we still thought that one was going to be quicker 
+than the other, or I think the quality of the information in one is less than the other. 
+But they ended up taking about the same length of time to do. So I think the method 
+with the square plot around the plant with the belt transects is a better use of time. I 
+think that’s something that we learnt that we could only have learnt by actually 
+physically doing it in the landscape and timing it. 
+
+ 
+
+VAL: So they will inform the design, but not in a statistical way. We won’t do an 
+analysis because there isn’t enough data. 
+
+ 
+
+SAM: Yeah, we won’t be telling [the Authority] how many seedlings to expect, or – 
+yeah, what statistical analysis to perform. But we can offer some advice, for instance, 
+one detailed survey method looks to offer better quality information in the same 
+amount of time. So we can recommend that to them. 
+
+ 
+
+SW: Was this the one with the pointing stick? 
+
+ 
+
+SAM: So the one with the pointing stick was the one that worked well in the end. 
+
+ 
+
+SW: But not the … the other version was where you drew out the quadrat, right? 
+
+ 
+
+SAM: Yeah, so we were drawing out two-meter square blocks, and guessing – 
+estimating – what was in them. That method we expected would be quicker but it 
+actually took quite some time. 
+
+ 
+
+VAL: And it relies a bit more heavily on an estimate – a visual estimate of cover and 
+a few other things. 
+
+ 
+
+SAM: Yeah, so that relies on the expert judgment of the person doing the observation 
+as well. And there’s studies that indicate that people are pretty inconsistent – even 
+people who are nominated as botanical experts of some sort. 
+
+ 
+
+SW: Yeah, I read that somewhere … 
+
+ 
+
+SAM: Yeah they can be quite inconsistent, so in some ways it’s a really great 
+outcome – that the slightly more objective process of measurement isn’t more 
+resource intensive. 
+
+ 
+
+SW: And would you have a – some kind of count of kangaroo scat with the pointing 
+method? 
+
+ 
+
+VAL: Yeah that was probably one of the advantages of the quadrat one is that you 
+could do that. While the pointing stick may just land next to the kangaroo scat, but 
+
+
+you can’t count it because it’s not literally under the stick. So it depends whether 
+that’s something you want to capture or not, yeah. 
+
+ 
+
+SW: Yeah, that was the interesting thing for me when you were doing methods and 
+stuff. What is the relationship between the stuff that you think might be important and 
+the stuff – like, obviously you can put everything in there for management, so you 
+have to pick your variables, or pick the information that you’re going to present – and 
+I was wondering whether you found that difficult, or whether it was fairly simple? 
+
+ 
+
+VAL: Mmm … we haven’t really completed that process I would say. So we still 
+require to think about that. 
+
+ 
+
+SAM: Yeah, but I think we’ve gone through a couple of different stages of 
+refinement, where – when we had the workshop right at the beginning of the project – 
+with about twenty experts related to the problem, we brainstormed a very long list of 
+things that could be monitored, and then we had a gathering more recently in about 
+January or February of this year with experts on vegetation surveys. So Logan and 
+Alex were involved with that and a couple of more senior researchers here where we 
+took the list that was made at the workshop and tried to get more specific, and more 
+realistic about which things could be measured simultaneously, what rules and 
+methods would you actually use to … So I guess the first one with the big 
+brainstorming list was people saying, “oh, well you need to think about understory 
+cover,” or very broad things like that without saying, “you need to set a plot out like 
+this,” or “you need that piece of equipment.” They didn’t give us that sort of 
+information, so we refined it with some local experts, and then we had another 
+meeting after that with Logan and Alex, and particularly the team that we knew would 
+be going into the field to talk about actual plot layout, and what the datasheets would 
+look like, and so on … So we called on different people – or different subsets of 
+people at different stages to get gradually more detailed, yeah. And we are largely 
+relying on other people to make those decisions, because I’m a mathematician and 
+Val’s a statistician, and it’s not appropriate for us to decide whether understory cover 
+is useful or not [laughs] … 
+
+ 
+SW: Because you had understory cover in the rapid survey right? I was going to ask 
+whether you felt that was useful, the rapid method and opposed to the detailed 
+method? 
+
+ 
+
+SAM: I think it … yeah … 
+
+ 
+
+VAL: … I think … I’m thinking ahead of where we are now, but it could be enough if 
+what you are trying to detect is a big difference between everything that is eaten 
+outside the fence, while you still have good cover inside the fence, for example. In 
+that case the rapid survey may very well be enough to represent that difference 
+
+
+between inside and outside, and therefore detect an effect of management. But that’s 
+the type of thing that requires more thinking. 
+
+ 
+
+SAM: Yeah it does, and something that we had in mind when composing the rapid 
+and detailed methods were issues of how often these things would occur in the 
+landscape and who would be doing them. So, for example, the methodical pointing in 
+the square points that Logan was doing, I think it’s very unlikely that the site staff at 
+Wildlands that we met on the trip would ever be expected or interested in doing that 
+kind of survey. But something a bit quicker where you put out a big ‘T’ and count the 
+seedlings in a circle – I don’t know whether that’s part of their common practice or 
+not, but for me that seems much more likely to be a task that could be worked into 
+their duties. Partly because of the training and responsibilities that they have built into 
+their roles, and part of it is also about timescales. So they’ve got management 
+timescales at the institution that they – there are basic activities that the Authority is 
+willing to do on an annual basis, but they’re also prepared to do more detailed surveys 
+once every five years or something like that. So one of the options with having these 
+two different levels is that – I guess one of the things the detailed survey passed 
+relatively quickly was that Logan was doing the pointing, and Logan can glance at 
+those plants and just knows what that is [immediately]. Whereas the difference 
+between a herb and shrub for me – when it’s two centimeters tall – is not as clear. 
+
+ 
+
+SW: Yeah, when me and Riley were doing the rapid survey on our own we even came 
+across seedlings that we were still not sure whether they were seedlings. Ones that 
+hadn’t been chewed at all so they still had the spines on – so it suddenly becomes very 
+difficult when you’re staring at one seedling trying to figure out if it’s a pine or not … 
+
+ 
+
+SAM: Yeah – and I’m sure the local site staff would know what a pine seedling 
+would look like and they could do that, but … and I’m sure that many of them would 
+be capable of the […] stuff but there’d need to be a lot more investment I guess in 
+calibrating that survey – checking what they’re doing, and that the same person is 
+doing it again next year or the training process is consistent enough to put your trust 
+in that data across years. 
+
+ 
+
+SW: Yeah, because that was another thing that came up talking to Robin [from the 
+Authority] yesterday – Robin was talking about the different surveys that have 
+happened down the years, and they haven’t been repeatable, especially for site staff. 
+So it’s really valuable to have methods that may be repeatable over time … So you 
+said at the start that you had learned a lot – what were the main things that came out 
+for you? 
+
+ 
+
+SAM: Well certainly the main thing for me was the patchiness of the landscape and 
+the different profiles that the woodland can have, with the different kinds of pine 
+populations that we saw was very striking for me. 
+
+ 
+
+
+VAL: And just the realization that we won’t be counting seedlings every time, or 
+every year, because they may not be there in the plot. And that – we have to think 
+about that, and how to make recommendations that have that aspect in – we have to 
+take that into account. 
+
+ 
+
+SAM: Yeah, and Val and I had the beginning of a ten-minute conversation that is 
+going to take several months I think, about the kind of survey design that we might be 
+able to recommend to them in the future, and how we really need to revisit what their 
+objectives are with the monitoring – what it is we need to learn from the monitoring. 
+Because the statistical standard would be – I think – to choose some locations for the 
+plots, and fix them, and go back to exactly the same places year after year after year, 
+but the profile of where seedlings are and aren’t is clearly going to change in that 
+landscape. And they had a very big fire this summer that also wiped out a lot of the 
+seedlings. Which is also part of the why we saw so few. And so – yeah, just the 
+question of whether we should be fixing plots in space or moving them around 
+achieves the objectives of the monitoring program – we haven’t solved that issue yet. 
+
+ 
+
+SW: Yeah, does that relate to the issue of weighing up whether you are trying to learn 
+about the system or whether you are trying to conserve seedlings as well? 
+
+ 
+
+SAM: I think it could… 
+
+ 
+
+VAL: Yeah, well that’s a distinction that is good to take into account, but it’s moving 
+away from the idea of adaptive management. I mean if you have seedlings and you 
+want to conserve these seedlings in particular – that could be an effective way of 
+conserving them. Or at least giving them a chance, but that’s not necessarily part of 
+the structure of adaptive management. That’s just a one-off decision or a decision or 
+way of doing things, but that type of fence is not necessarily related to a fence that 
+you would use to learn about the system. So I think separating these two ideas may be 
+a good thing at some point in time … Because you could have a very small fence 
+around the small plot, just because there’s seedlings you want to keep there or give a 
+chance at least. But it might not be small enough or contain all the seedlings in an 
+area, and it might not be useful for learning about outside – if outside there is no 
+seedlings, for example. So some types of fences for conservation purposes may not 
+help us, or not necessarily help us, learn about the system. You know, about whether 
+culling quotas are being set in the right way or not. It’s just something to keep in 
+mind… 
+
+ 
+
+SW: Yeah, talking about objectives, do you think the main objective would be to 
+establish this link between kangaroo culling and vegetation response? 
+
+ 
+
+SAM: That’s the objective for our research project. The objective for the Authority’s 
+pine-ironwood management would be different to that I think. So in the broadest 
+terms their objective is a “fully-functioning landscape.” I think that was the phrase 
+
+
+that someone used at the workshop. And that’s something that would be achieved, if 
+all goes well, on the timescale of fifty to one hundred years. That’s a very long-term 
+aspirational – I guess it’s more like a mission statement or a vision rather than 
+something you can quantify. 
+
+ 
+
+SW: Yeah, has that been defined – what that would look like? 
+
+ 
+SAM: Um … So during that workshop we got to drill down to more specific factors, 
+and things that would respond over different timescales. So for example if we were 
+successful in improving the landscape – the woodland condition in the next five years 
+– you’d hope to see less weeds and more perennials or something. So they made a 
+series of statements of that kind. 
+
+ 
+
+SW: So performance measures … 
+
+ 
+
+SAM: Yeah that’s right. And so having less weeds and more perennials might be – 
+that isn’t actually going to get you more adult pines or more ironwood, but it’s part of 
+that broader picture of restoring that landscape to something that it might have looked 
+like before European settlement, I think. 
+
+ 
+
+VAL: Yeah, and that’s a long-term aspiration. So in previous documents they’ve even 
+put these objectives into ‘short-term,’ ‘medium term’ and ‘long-term,’ because you 
+don’t expect to get the full benefit – sorry you don’t expect to get the long-term 
+benefit in one year or so, that’s why it’s called a long-term objective, so in order to 
+track progress towards that, they have some intermediate objectives. Like the 
+relationship between native weeds to invasive weeds or something? I don’t remember 
+but there’s a series of measures that indicate you are going in the right direction. 
+
+ 
+
+SAM: I think an example of a mid-term one would have been “successful recruitment 
+of some pine and some ironwood.” And then the longer-term one was something like, 
+“having a full range of age classes in the landscape.” So evidence that there are adults, 
+young adults and juveniles all present. 
+
+ 
+
+SW: And would – whereabouts would this project be geared towards? Would it be 
+towards short-term term? 
+
+ 
+
+SAM: I think we want to capture short- and medium-term information in the 
+recommendations that we provide. So for example the seedling counts – if you can 
+find some seedlings now that’s good news, but they’re still vulnerable and they could 
+be grazed and disappear or not progress to the next stage, so if we – it seems 
+important that we’re counting the adult trees and tracking the young adults as well 
+because that’s the medium-term sign of success. If you’ve got these things that have 
+escaped the grazing height and are big enough now that a kangaroo can’t topple them, 
+that’s a sign of the type of medium-term success they’ve defined, I think. 
+
+
+ 
+
+SW: And are these objectives in the management plan – in the Regional Parks 
+Management Plan – or somewhere else? 
+
+ 
+
+VAL: There are vague objectives in some of the documents, and I think at the very 
+least in the Regional Parks – the overall … Now, The Authority were not – I mean the 
+guys we’re dealing with were not completely happy with these – I think there some 
+people in the workshop that said they were too vague, essentially … That they were 
+aspirational goals. 
+
+ 
+
+SAM: Yeah, I guess one of the challenges too is that we have this set of documents 
+that have been produced over a timeline over ten or fifteen years with different people 
+in leadership roles or different people authoring at different times. It can be 
+challenging sometimes to work out which of those principles are still very important 
+to the organization, and which ones the Authority might have let go of along the way. 
+So typically we consult with Robin and Leslie along the way to check that we are on 
+the right track or not [laughs] … 
+
+ 
+
+SW: Right. And a couple of clarification questions: firstly, the identification of the 
+problem with pine – where it began, in terms of when they realized there was a 
+problem with pine recruitment? 
+
+ 
+
+VAL: I don’t really know – it really predates our arrival to the project, so … From our 
+point of view the issue is that they know there is a problem. I don’t know when that 
+was flagged up for the first time. It’s been mentioned in all the documents, definitely. 
+
+ 
+
+SW: Right, and there’s not a problem with the other pine, right? The other species … 
+
+ 
+
+VAL: No. 
+
+ 
+
+SAM: Not one that they’re sharing with us. They’re not expressing concern to us 
+about … 
+
+ 
+
+VAL: I know it’s an issue in other parks and other places, because I know someone 
+who is working with the other pine species – especially in places where they have 
+[here there was background noise that interrupted Val’s speech] … and fire regimes. 
+But I’ve never heard any concern about them in Wildlands, so … 
+
+ 
+
+SAM: Yeah, I think there’s a previous Authority staff member called Blake, and 
+Blake was the environmental programs manager in that region for a very long time 
+and was a real champion of the restoration process there for a very long time, but just 
+retired about one to two years ago. And Blake wrote some of the early reports about 
+vegetation condition within the Park, and I suspect that it was Blake’s personal 
+observations in the Park that generated concerns and prompted revisions of the 
+
+
+kangaroo cull program. That would be my best guess based on who I’ve met and the 
+timeline of reporting. 
+
+ 
+
+SW: The other clarification was this idea of the “switch” in kangaroo grazing that I 
+think we were talking about when we were out there – and where that idea has come 
+from, the idea that there is some sort of switch in kangaroo grazing? Because I 
+remember you [indicating Val] mentioned you were not entirely convinced by it, you 
+thought it might be more of a gradual movement … 
+
+ 
+
+VAL: Yeah, and I don’t have any evidence for that, it’s just an idea that has been 
+mentioned to us. That overall it can be seen as a switch. 
+
+ 
+
+SAM: And would that have come from Kelsey primarily? 
+
+ 
+
+VAL: Probably, it was after the workshop I first thought seriously about that idea, so 
+it must have been them in there. 
+
+ 
+
+SAM: Or someone present in the workshop… 
+
+ 
+
+VAL: Or someone else there, yeah. Um… 
+
+ 
+
+SAM: So one of the experts we consulted in the early stages would have framed 
+things in those terms. 
+
+ 
+
+SW: Do you think that would be something pursuing? 
+
+ 
+
+VAL: It may change a little bit, or not that little bit, the way we think about the 
+problem. It’s about a threshold or a moment at which kangaroos would switch to this 
+other, non-preferred source of food. Because then the problem becomes controlling 
+the kangaroo population versus the availability of food, so that that switch doesn’t 
+happen. Instead of: there is a gradual amount of grazing on things we don’t want to be 
+grazed, and we just have to control that grazing on a continuous scale, you know, to 
+some point. So you can see it as a different problem, or a different way of formulating 
+the problem. So avoiding that threshold. From that point of view, if you simplify it 
+completely and you make for a perfect switch – actually it wouldn’t even matter 
+where you are, or how close you get to the switch, as long as you don’t trigger that 
+switching. But of course that’s what I meant – that it’s a bit … that I doubt it’s a 
+complete idealistic switch. There’s gonna be some level of browsing and then at some 
+point at time most of them switch because there’s nothing else to be eaten. But how 
+much that system looks like a switch, I don’t know. 
+
+ 
+
+SW: Yeah, I guess it would alter the nature of the problem in the sense of 
+recommendations for management. When they decide to cull and not decide to cull. 
+
+ 
+
+
+VAL: Yeah, the problem can be framed in a different way, but we’re still not sure 
+that’s a useful way of framing it. 
+
+ 
+
+SW: And so drawing on the field trip, and this decision to be made between sampling 
+random trees in the landscape, which I guess relates to what you were saying 
+[indicates Sam] about a statistically friendly way of doing it, where you would have 
+just a completely random selection – or whether we went for trees with seedlings, 
+whether we went after seedlings. And I was wondering how you balance that tension, 
+or that decision to be made? 
+
+ 
+
+SAM: Yeah. I think once I accepted that we were not going to perform a statistical 
+analysis on the data that we were collecting I felt more relaxed that the important 
+thing for us to do was to practice the methods. And the methods are – the methods 
+and data in the future are going to be most interesting when there are seedlings to 
+count. And also that’s going to be the time that the methods are going to take some 
+time to perform too – if you had a fixed plot and you had nothing in it, you’d draw out 
+your plot and you’d go, “zero, zero seedlings” and then write it in your data sheet. 
+Whereas if you’ve got some seedlings to count it might take you a good twenty 
+minutes or an hour depending on your plot design to get through the procedure. So 
+yeah, once I’d realized that we were not performing an analysis on the data that we 
+were collecting during this trip, I think the selection was based more on “let’s get 
+some practice” and “let’s understand what weird things you might notice when there 
+are actually seedlings.” And check whether the method works under seedling 
+conditions. 
+
+ 
+
+SW: Yeah, like when you have to negotiate all the fallen branches and all the other 
+things you find in there… 
+
+ 
+
+SAM: Yeah… That was the thought process that I was internally going through 
+anyway. Val, did you have other thoughts as well? 
+
+ 
+
+VAL: Yeah, I can see we would have more benefit from that. 
+
+ 
+
+SAM: And I mean that the kind of recommendation we give the Authority in the 
+future is: “look for a place with seedlings, and do your survey there.” In which case 
+this absolutely applies – the choice that we made to look for trees with seedlings 
+around them, is a good reflection of that. Yeah … 
+
+ 
+
+VAL: In a way – and I think we discussed this during the trip – it’s a reflection of the 
+fact that we are not necessarily interested in the ecology of the regeneration, unless it 
+brings information on how to conserve and how to manage that landscape. So it’s an 
+interesting ecological question, but if it’s not gonna help you set cull quotas then it’s 
+not relevant in the context of this adaptive management project. So, of course, if you 
+wanted to understand how regeneration happens, you would have – you would 
+
+
+probably sample at random, because you’re trying to capture the variation in that … If 
+you wanted the means to study the impact of your management actions then you 
+might as well go to the place where there is some seedlings, establish a plot there and 
+then see what happens outside the fence. That is a simple example. Again trying to 
+keep the objective in mind … 
+
+ 
+
+SW: Yeah, how important is it for you, doing an adaptive management project, to be 
+clear on where the adaptive management is taking place. Because it’s difficult for me 
+to keep in mind. In theory you have these experiments on a landscape scale or on an 
+ecosystem scale, but it seems like this is much more targeted towards a specific 
+question – and that is where the adaptive management is taking place. I wondered if 
+you could confirm for me where you think adaptive management is taking place in 
+this particular problem? 
+
+ 
+
+VAL: I think in this case it’s quite clear – at least as it was defined from the beginning 
+even before we came into the project – that they wanted to learn how to set these cull 
+… how to control this population of kangaroos so that their objectives could be met. 
+And as they were unsure about the relationship between population control and the 
+objectives, something they could learn about. So I think the case is about: they want 
+to learn how to set these quotas to control population, or whether you even need that 
+or not. To have this objective of vegetation condition and regeneration. 
+
+ 
+
+SW: And a couple of other decisions that we were making … So they’re all pretty 
+related, but we have this decision between getting the spatial distribution of seedlings 
+under trees against getting the proportion of trees with seedlings. So the first one 
+might be useful for understanding the factors affecting the recruitment of seeds, and 
+the second one might be important for understanding how many seedlings there are in 
+total. 
+
+ 
+
+SAM: Yeah. 
+
+ 
+
+VAL: There was a practical purpose for getting at the distribution of seedlings under 
+the trees, which was to potentially influence the design of the fence – the design of the 
+plot, the exclosure. So how far away from the tree you could find seedlings. Or in 
+which density would affect the power to detect differences inside and outside the 
+fence. And therefore how big an area you should have. And now I think about it after 
+the trip it’s quite idealistic from the statistics point of view: “I’m going to design the 
+size of the fence based on the …!” Anyway … [laughs] … Yeah, so there was that 
+aspect of that particular type of study, which could help design the size of the plots … 
+And knowing how many trees have seedlings, or what proportion of trees with 
+seedlings doesn’t really help with that aspect, for example. 
+
+ 
+
+
+SW: And I guess we haven’t got to this point yet in your project, but how you are 
+going to construct experimental sites, without having this direct comparability 
+between them. 
+
+ 
+
+VAL: What do you mean? 
+
+ 
+
+SW: If you were going to choose these exclosures within the landscape – basically, 
+how would you choose them? 
+
+ 
+
+VAL: As you say we haven’t got to that point! And there is a range of practical 
+reasons, for instance accessibility, after all you have to construct a fence which 
+requires bringing all the materials and stuff like that, and there’s going to be a mix of 
+practical things and willingness to understand the variation, or having the power to 
+represent the landscape properly. But we haven’t got to that yet, I would say. 
+
+ 
+
+SAM: Yeah, and I think we would need to have further discussions with the Authority 
+partners about that – and some of them would be about the speaking to the people in 
+the regional office about who is paying for what and who is going to look after it. So 
+for example, we might be able to generate funding to set up a fence but someone has 
+to check whether the fence is … Exclusion fences break and they are imperfect. 
+Animals can burrow and jump at things, and people can turn up and create havoc and 
+so on. So fences need to be maintained continuously by local staff, which will always 
+be a negotiation about whether that is enough of a priority for the regional Authority 
+staff – whether they can allocate people to do that job. And yeah, second, who pays 
+for the material and who erects that fence in the first place. Whether that’s a 
+University job, whether there’s funding at a high level – whether for example in the 
+Authority’s head office additional funding is granted to do that job or whether they 
+scrape the money out of their existing budget to do something like that. So there are 
+some practical and political discussions to be had. But there’s also, I guess, 
+discussions to be had about what the purpose of the fence is. There’s the potential 
+purpose of pure protection: you see some seedlings that are important to you, and you 
+want to protect them. But then there’s auditing type purposes – so you want to keep 
+track of how the system is changing, and you can learn something more about that 
+when you’ve got, “what’s happening inside the fence and what’s happening outside 
+the fence,” as a direct comparison. And then that could be extended to a quite 
+scientifically experimental design in which you’re manipulating different things in 
+different places, or seeking to learn very specific ecological feedbacks. 
+
+ 
+
+SW: Yeah, because there’s already – it’s interesting to see the exclosures that had 
+already been set up, especially in the southern parts [of Wildlands] … 
+
+ 
+
+SAM: Mmm … and it seemed as if they were for the protective purpose. That was my 
+interpretation of the conversations. People weren’t explicitly monitoring – I mean 
+they weren’t explicitly measuring what was happening inside or outside those fences. 
+
+
+They had been put up to protect something and it was just assumed they were doing 
+the job. 
+
+ 
+
+VAL: And at the end the decision of building this exclosures, or using old ones or 
+whatever, it’s the Authority’s. Because in the end it’s up to them mostly to keep them 
+in order and monitor them and so on. So what we can do is provide recommendations 
+and try to explain as much as we can the benefit that they can obtain from having 
+those exclosures, those control sites. And then the decision is theirs to weigh up 
+whether that’s the way they want to proceed … So as we said the other day, we 
+provide the idea of this adaptive management – how it can work – but they have to 
+implement it, it’s up to them. 
+
+ 
+
+SW: Yeah, it was interesting to relate it to the trade-offs of monitoring as well. You 
+mentioned that in the original theory there was no account that you would trade-off 
+the benefits that you can get through monitoring with other considerations – the 
+fencing and stuff like that, the experimentation things. So balancing the costs and 
+benefits in a way. 
+
+ 
+
+SAM: Yeah, and that’s because they don’t have well established monitoring regimes 
+at all for the woodlands. And that’s completely open and up for debate – what levels 
+of monitoring would be beneficial for them and what they have the capacity to do. 
+
+ 
+
+VAL: And the Authority definitely have their own trade-offs because they have to 
+take care of different aspects of the Park, and this is one of them, and they have a 
+limited budget and resources. But again that’s outside of our area … 
+
+ 
+
+SW: Yeah, the responsibilities for the barbecues and the picnic areas and … 
+
+ 
+
+SAM: [Laughs]… Yeah and nuking the weeds based on what was in the back of 
+Tony’s truck [a member of the site staff at Wildlands]. 
+
+ 
+
+SW: Yeah I found a book online that was a history book about Wildlands – have you 
+seen that? By members of the Wildlands volunteer group I think. 
+
+ 
+
+SAM: Oh I think Logan sent it to me, but I haven’t had a good look at it yet. 
+
+ 
+
+SW: But there’s also pictures in there of people nuking different kinds of weeds, so I 
+think it’s a long tradition. 
+
+ 
+
+VAL: And the rabbit war. 
+
+ 
+
+SAM: Ah, the rabbit war, yes that’s right. 
+
+ 
+
+VAL: Many different ways of killing rabbits. 
+
+
+ 
+
+SW: Yeah that’s true they also talk about that in the book – baiting, fumigating, and 
+all these different things … And in terms of the tools that you have to address the 
+problem: you’ve got things like kangaroo culling, exclosures, and then planting of 
+seedlings and things like that. There were about three tools that I could see. Did any 
+other ways of addressing the problem jump out at you during the trip? 
+
+ 
+
+VAL: Well I think the culling is the management lever – the way they control the 
+system. I mean they do other things, but they’ve always been a bit ‘on the side’ – like 
+controlling rabbits, goats and weeds. So in principle, strictly speaking, our project is 
+about the culling quotas. 
+
+ 
+
+SAM: Yeah, but the rabbits and the goat control are both – they relate to the grazing 
+pressure and what might happen to the woodland. So I think planting and planned 
+burns are the other two things that were … So I’ve build a conceptual model, a flow-
+chart, of the system and shared it with the Authority folks at the end of last year. And 
+yeah, their fire management was the other thing that came up as an issue. And I don’t, 
+yeah, fire doesn’t help either of these species, but I guess their choices about where 
+they allow and avoid burning has some impact on the seedlings. 
+
+ 
+VAL: So for example the other things you mentioned like fences, or planting things 
+inside fences [if there’s no regeneration?] … that’s part of a potential strategy for 
+accelerating the learning. So the other ones are management actions – that type of 
+fence is not really an action, it’s a way of learning faster than just observing how the 
+system goes over decades. It’s just trying to accelerate that. Although you can have 
+also conservation fences if you want, or a conservation purpose for those fences, but 
+that’s a different story. 
+
+ 
+
+SW: And has the trip made you reflect on the theory of adaptive management? 
+
+ 
+
+VAL: Say it again? 
+
+ 
+
+SW: Has the trip caused you to reflect on the theory of adaptive management? 
+
+ 
+
+VAL: Not on the theory I would say – on the practice [laughs] rather than the theory. 
+You know what I mean? Unsurprisingly, because as you learn more about the system 
+you always improve the way you think about it … I think as Sam said at the 
+beginning it was a good learning experience for us and that obviously translates – 
+hopefully – in terms of better ideas about adaptive management and proposals and so 
+on … 
+
+ 
+
+SAM: … yeah, I think Logan for example was really good at hatching hypotheses as 
+we were going, and hatching these questions about, “well, does recruitment work like 
+this?” or “does recruitment look like that?” or “I noticed that this” … And that was 
+
+
+really useful – Logan is not someone who is obliged to think in terms of adaptive 
+management as Val and I are, yet was still putting things in those terms, which was 
+good. And the nature of the hypotheses that Logan composed were different to what I 
+would because Logan is an ecologist and could think quite mechanistically about 
+what are the ecological processes that could be creating successes and failures in 
+recruitment … I mean, yeah, I guess – as we spoke about in our previous meeting as 
+well – this glib way in which adaptive management can treat monitoring that’s 
+massively important, but “let’s assume it’s perfect and doesn’t cost anything.” This 
+project is very much in direct contrast to that – what it is that we should be 
+monitoring? Who should be doing it and how much effort is it gonna take? – is 
+actually very very unclear I think, still, and I think we’ve whittled down the options a 
+little bit, and we can make increasingly realistic suggestions, but we are still not 
+certain that you can get a strong signal on the things that you are interested in. 
+
+ 
+
+SW: Because of the monitoring? 
+
+ 
+
+SAM: Yeah, because of the monitoring, yeah. 
+
+ 
+
+SW: And what will be the next steps in terms of interaction with management and 
+also analysis of the data – and your trajectory over the next few months. 
+
+ 
+
+VAL: We haven’t really discussed that in detail, for the simple reason that we’re 
+going to be on conference trips … 
+
+ 
+
+SAM: Yeah, we’ve both got other commitments over the next few months or so, and 
+there’s other aspects of this project that we’re each going to work on separately in that 
+time. So for that reason we’ve postponed detailed discussion of these results until 
+July. Yeah, we were going to arrange a meeting with Robin in July – so that was more 
+about the report as a whole. So our next step is actually to go to Robin, our Authority 
+contact, and review with them what kind of information they want from us, and what 
+format it will be in. And what format we can best deliver it to them in. So we can 
+frame what we do next in the most useful terms for them. 
+
+ 
+
+SW: Is that in September or November time? 
+
+ 
+
+SAM: Yeah so hopefully we’ll have the meeting in July, get lots of work done over 
+August, and then by September have a report to return to them. 
+
+ 
+
+SW: Yeah it’ll be really cool to see that final report, to see the whole trajectory. 
+
+ 
+
+SAM: Oh sure. 
+
+ 
+
+VAL: I feel the same! I can’t wait to see it! [Laughs] … 
+
+ 
+
+
+[End of Interview] 
+
+ 
+
+ 
+
+ 
+
+

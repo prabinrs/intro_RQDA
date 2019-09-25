@@ -1,0 +1,1236 @@
+Transcript 1 
+
+ 
+
+Participants: 
+
+Simon West (SW), interviewer 
+
+Sam (SAM), a mathematician and population modeler in the ecology department at 
+the University, and co-leader of the Wildlands adaptive management (AM) project 
+
+ 
+
+Location and timing: 
+
+A meeting room at the University, soon after the field trip 
+
+ 
+
+Transcript: 
+
+SW: Yeah the first area that I wanted to talk about was your involvement with the 
+project and the process building up to the pilot study – like how you became involved 
+in the project, who you were approached by and what the scope was for your role 
+within the project? 
+
+ 
+
+SAM: Yep. So my understanding is the history of the project is that there is a research 
+funding agreement between the Authority and the University and there are two people 
+from the University – Blair and Jackie – and they’re named on that grant. And I don’t 
+know the specific history of how the – I think probably the Authority approached 
+Blair and said, “hey, we’ve got this issue, can you help us out?” But I’m not certain. 
+I’m not sure who approached who in that initial situation. 
+
+ 
+
+SW: Do you know when abouts this was? 
+
+ 
+
+SAM: 2010 or 2011 – 2011 is written on the research document that I have, so 
+presumably the talks started probably six months before the document was signed. 
+And then – let me think, I’ve got to get my years right, we’re currently in 2014 – so at 
+the beginning of 2012 Blair hired me and hired Val also. Blair hired six Post-Docs at 
+once, and me and Val were part of that group, and allocated the [Wildlands] project to 
+us to carry through. And while Blair and Jackie remain interested and involved [in the 
+Wildlands project], they made it clear that it was Val and my responsibility to direct 
+the project. 
+
+ 
+
+SW: And how was it allocated to you? What did you have in particular that they 
+thought you could help out with? 
+
+ 
+
+SAM: Yeah, I think probably when Blair interviewed me, there were a few different 
+skills that I described in that interview. One is that I have a strong background in the 
+mathematical aspects of adaptive management – I have a history of publishing 
+research in the field of adaptive management, but particularly the mathematical 
+modeling side of it. And in addition to that in the past few years – the couple of years 
+prior to that interview, I had a lot of involvement in an Authority project to do with 
+weed management, so I’d done a lot of interaction with a Public Authority. So I was 
+
+
+able to demonstrate I was good at communicating with a Public Authority and able to 
+deliver the kind of work that they were interested in. So it was a combination of my 
+mathematical adaptive management knowledge and my communication skills with a 
+Public Authority I think, that Blair was – that Blair saw in me and thought would be 
+useful for the project. 
+
+ 
+
+SW: And the previous project with the Authority – that wasn’t adaptive management 
+was it, that was something else? 
+
+ 
+
+SAM: No it wasn’t. That was a weed management project that involved mathematical 
+modeling in helping them with survey design, and I guess I would describe it as 
+structured decision-making. So it fits in that idea of decision theory, but it wasn’t 
+adaptive management in particular. 
+
+ 
+
+SW: And in regard to the workshops – or your introduction to the Wildlands project – 
+how did that begin, what was your initiation to the project? 
+
+ 
+
+SAM: My initiation would have been meeting Robin [at the Authority] in particular, 
+quite early when I began my contract. I think even before Val moved to Australia I 
+got to meet – Jackie introduced me to Robin and we had a one to two-hour meeting to 
+just discuss what the Authority wanted out of the project. Then in those first few 
+months as Val arrived we started talking about the workshops and it took us probably 
+six to eight months before the workshop actually occurred, but that was the first thing 
+we were working towards. So that – because Val, I think, was also hired because of 
+their statistical skills rather than – neither of us had background to this particular 
+ecosystem and Blair understood that, so the workshop was the first chance for the two 
+of us to meet people who were experts in the ecosystem, and to build a picture of how 
+they saw the problem. 
+
+ 
+
+SW: So was the idea that a formal model would be useful around right at the start of 
+the project? 
+
+ 
+
+SAM: Yeah. And I think they – a formal model already existed for [the Authority], 
+this was the one that Jo had done previously [the Rainfall Model], and they saw that 
+there was room for improvement. But [the Authority] seemed to be happy with the 
+modeling process and they were seeking an improved formal model because they 
+were already happy that a model had been created … There were people in the 
+Authority using that model and making decisions based on that previous model. 
+
+ 
+
+SW: And what was the need for the workshop – you said that it was good for you to 
+meet the people that had knowledge of that ecosystem? 
+
+ 
+
+SAM: Yeah that’s right. I just realized I forgot to say that in between the two – so the 
+workshop occurred in May of 2013, I think, and in December of 2012 we also had a 
+
+
+meeting with some of the Authority staff – Val and I travelled to [a small town near 
+Wildlands], and we met with the Authority managers there at that time. So we met 
+Taylor, who wasn’t yet in their current role, so we met Taylor’s predecessor, whose 
+name was Blake, and we met Taylor as well, [because] Taylor was about to take 
+[Blake’s] role on. 
+
+ 
+
+SW: And what was that meeting to discuss? 
+
+ 
+
+SAM: That’s a good question! [Laughs] Again I think probably the very first meeting 
+with Robin was very project focused and [about], “what does the Authority want from 
+us,” whereas the meeting in December with the Authority managers was asking them 
+questions about – just learning how they saw the system, and that was definitely a 
+beginning for Val and I to learn about the ecology of the system. I remember Val and 
+I talking about rainfall patterns and kangaroo response and vegetation response and 
+those kinds of ecological aspects to the problem. And also about the feasibility of 
+management actions for them, I think that was probably the first time that we talked 
+about, “would it be possible to measure rainfall like this?” “What if there were 
+exclosures?” “Could you maintain exclosures or is that too hard?” Those kind of 
+questions about what kinds of management actions would be feasible on the ground. 
+
+ 
+
+SW: And had you an idea of these practical restrictions from your previous work with 
+the Authority? It’s interesting what you can do as a scientist sometimes and what you 
+can do as a management organization – had you operated with these kinds of limits 
+before? 
+
+ 
+
+SAM: Yes I had, definitely. And, um …Let me think about that. Yes I had definitely 
+had experiences in my previous projects where we had had ideas, [the] researchers, 
+that sounded pretty easy and sensible but surprised us when we talked about them 
+with managers that some of them were harder for them to put into practice than we 
+expected. 
+
+ 
+
+SW: And were there any things that came out of those meetings that were surprising 
+for you to find out? 
+
+ 
+
+SAM: Mmm, that’s a good question! Um … Maybe I’d have to look back through my 
+notes from those meetings. Yeah sorry, I don’t have them with me right now. 
+
+ 
+
+SW: That’s alright. Can you remember your initial impressions of the problem – what 
+were you kind of thinking after those meetings? 
+
+ 
+
+SAM: I remember being really impressed after those meetings that one or two of the 
+managers had – were able to bring very specific stories about response to rainfall, for 
+example, and that they, through their personal observations, saw that rain – not just 
+rainfall but the season in which rainfall occurred would affect what vegetation was 
+
+
+springing up and how the wildlife would respond. So they also had different 
+contrasting stories of how the kangaroos would respond to the vegetation versus how 
+rabbits would respond to the vegetation. And at that point because it was just 
+exploration and new learning for Val and I, I took written notes but I didn’t try to 
+formalize the model at that point. I was just listening to the stories and taking notes 
+about what they were sharing. 
+
+ 
+
+SW: Were there – can you remember any kind of specific points where the theories 
+differed? Were there any that stuck out to you? 
+
+ 
+
+SAM: No – I didn’t notice too much disagreement among them. I think mostly that 
+was because they agreed. I think sometimes with Public Authorities hierarchy can 
+come into play – if your boss says something then you might not feel comfortable 
+disagreeing with them … You might be able to disagree with them in a private 
+Authority meeting but in front of someone else it might not be acceptable. But I didn’t 
+get a strong sense at that particular meeting. Everyone seemed quite comfortable to 
+say what they thought, yeah. I think possibly as a naïve researcher some of my 
+questions were coming at an angle that not all of them could immediately connect 
+with. So some of them probably held back because I’d ask a question that they didn’t 
+know what I was going on about! [Laughs]. 
+
+ 
+
+SW: Was that kind of related to kind of formal or technical aspects? 
+
+ 
+
+SAM: Yeah, I was probably trying to avoid the technical terms but in my mind I 
+might have been trying to work out what their objectives were, and I didn’t use the 
+word objectives but I was just asking questions about, “what would look like a good 
+system to you?” Or, “what would look like a bad system to you?” And they just didn’t 
+connect with that way of thinking about the situation. 
+
+ 
+
+SW: Why do you think that was, do you know? 
+
+ 
+
+SAM: Aw I think my training is very much grounded in this structured scientific 
+approach to a decision problem. And many people don’t think about making decisions 
+in those terms. And I was trying to – I’ve got these little compartments in my head 
+about how different bits of a problem need to fit together to come to a … You’ve got 
+to put the pieces into these compartments and fit them together and come to a good 
+decision. And not everyone sees problems that way. So I was probably skipping ahead 
+a couple of steps in logic and wanting people to put things into my compartments. 
+
+ 
+
+SW: So moving through this process did you meet with these managers again 
+throughout the next year or so? 
+
+ 
+
+SAM: Yeah, so we invited everyone who was present at that meeting in December to 
+a workshop in May and more than half of them would have come along. And for 
+
+
+those who were absent, different Authority people would have come in their place. So 
+I think we had at least four representatives from the Wildlands regional area at the 
+workshop. And then about six months later Val and I went back up there and Rowan, 
+who is one of the site staff [at Wildlands], took the two of us on a tour of the Park, so 
+that was another connection. So I guess on average we would have been having in-
+person contact up there with at least one person every six months. 
+
+ 
+
+SW: Did you kind of change the way you were asking questions throughout that 
+process? 
+
+ 
+
+SAM: Definitely. And I guess it helps to do – that first meeting in December was in a 
+meeting room [in a town near Wildlands], whereas when we saw Rowan in October 
+and he took us on a tour, we were in the Park and looking at stuff, so that changes the 
+way I ask questions too because I’m not sitting there with my notepad thinking about 
+my decision compartments. I’m actually there looking at trees and grasses and 
+thinking about what they do and how they fit together in the environment. 
+
+ 
+
+SW: So what kind of – just think of an example of the types of, the ways that you 
+changed – would you … I don’t know … How would you have changed do you 
+think? From the compartments to … 
+
+ 
+
+SAM: Yeah, I guess by the visual cues of seeing the environment it’s – when I’m in 
+the office, because I don’t have the ecological background, I can’t bring to mind these 
+different dimensions of the environment. So trees versus shrubs versus grasses and so 
+on – those things don’t naturally come to my mind, so I don’t ask very specific 
+questions about them. I might ask general questions and hope that someone will give 
+me that information, but I don’t have the background knowledge to bring that to mind 
+and ask people specific questions. Whereas when I was in the environment and 
+Rowan was giving me a tour I could – Rowan might point out some trees and name 
+them and tell me some history, and I could ask things … That served as a 
+conversation point for both of us to structure things from. But likewise, I would notice 
+things that I would never have anticipated in the environment and could ask questions 
+about them too. 
+
+ 
+
+SW: Yeah. Can you think of any of those things? 
+
+ 
+
+SAM: Yeah. I guess certainly something that happened in our field trip specifically 
+[the monitoring methods field trip], but probably that I noticed a bit on previous trips 
+was how patchy the environment was. So although we have this – on paper we have 
+this idea of this woodland we’re trying to regenerate, it’s not a big space that all looks 
+the same. Some bits are almost all grass, some bits are all trees, some bits are a 
+mixture of different trees. And so asking questions about, “how did that come about?” 
+“What combination of natural processes and management choices have brought about 
+what it looks like at the moment?” 
+
+
+ 
+
+SW: Yeah. I wanted to ask you about that, because that was interesting thing in the 
+interview last time with you and Val, was talking about the patchiness of the 
+landscape and how that changed your perceptions of the system you were dealing 
+with. And I wanted to ask you about, you know, as a statistical expert, how did seeing 
+that change your understanding of what your practices would be in that [landscape]? 
+
+ 
+
+SAM: Yeah certainly. I guess if we had a big expanse that was all relatively 
+homogenous then statistics tells us that we can take a small subsample of that area. 
+And trust that within a certain error margin, that will give us a signal of what is going 
+on for the entire space. But because we have this patchy environment, and we saw 
+that even within those woodlands the profile can be very different, so we saw that 
+some places with only pines, all the pines were of a certain age, and then we went to 
+other places and saw the pines were all sorts of different ages. So we need to ask 
+ourselves pretty carefully whether it’s OK to treat them as the same thing or whether 
+we need to treat them differently to each other, and the more things that we notice – 
+the more things we think are different and need to be treated differently, the more 
+sampling you need to do to capture all of those things that are going on, those 
+different profiles. 
+
+ 
+
+SW: Yeah, because that was one of the things that was interesting on that monitoring 
+trip was that discussion about what to actually treat as a sample. And how your 
+selection of what the sample is relies on going back to the objectives of your study. I 
+was wondering how that played out and how you dealt with that? 
+
+ 
+
+SAM: Exactly. So, I guess if you are trying to catch a snapshot of the entire system 
+then you need to make your selections in the landscape relatively randomly, so that 
+you’re capturing some places where there are absolutely no seedlings, some places 
+where there are seedlings, and going to a place where there are no seedlings makes for 
+a pretty boring survey to carry out. But if you want an overall survey of the entire 
+landscape you need to perform those surveys so that you get an accurate 
+representation of what the seedling pattern is over the entire system. But because that 
+trip was a sort of scouting trip and not a complete scientific survey, or a self-
+contained scientific survey, our secondary – I guess our objective for the entire 
+project is to get that picture of the total landscape, but in some ways our small 
+objective for that single pilot study was to practice the methods and work out how 
+they interact with seedling density so in that case we would not be obtaining not much 
+information if we performed a survey where there were zero seedlings. So it had – so 
+potentially focusing on places where seedlings existed served our purpose for that 
+pilot study, even if it was not a statistically valid design to get a landscape-scale 
+picture of what was happening. And that was probably what a lot of our nighttime 
+conversations were about – trading off our short-term objectives about learning the 
+sample method first with our long-term project-level objectives of learning about 
+getting a whole landscape picture of seedlings. And I think quite rapidly we gave up 
+
+
+on that – we gave up that large-scale thing and thought we’ve got to keep it small and 
+short-term for the pilot study. 
+
+ 
+
+SW: Yeah and were you also thinking about the report that you have to present [to the 
+Authority]? 
+
+ 
+
+SAM: Certainly. And, um, I guess we – I think we realized within that first day or two 
+that it would not be possible in that report to give the full landscape picture, and that 
+probably it’s not our job to do that. That’s not what Val and I were hired to do, and 
+that understanding the survey method and how it interacts with seedlings was 
+important because we could give them advice about the effort – in the report we could 
+give them advice about how much effort it takes to complete a survey and then 
+extrapolate and say if you wanted to do a big landscape-scale survey in the future, 
+here are some expectations on the resources it would require to do that. Because I 
+think it’s really our responsibility in that report not to carry out the monitoring for 
+them but to give them good advice on how they could do that monitoring in the 
+future. 
+
+ 
+
+SW: Yeah I was wondering whether that experience of the pilot study changed your 
+perception about your role within the project as advisors or as experts, and whether 
+you reconceived what adaptive management would be for you or for the project after 
+that trip? 
+
+ 
+
+SAM: Yeah, I think it did change my expectations about what we could supply them 
+in that report. About the level of detail and the statistical analyses – it certainly 
+reduced my expectations about what we could offer in that report. I don’t think it 
+altered my perceptions of the adaptive management aspect too much. I think I called 
+on the – I used the adaptive management philosophy … As you noted before that we 
+continued to have this conversation about what are our objectives and what activities 
+will help us to fulfill these objectives. And so I did call on my adaptive management 
+skills to answer that, and help make the day-to-day decisions during the course of the 
+trip. 
+
+ 
+
+SW: Yeah, and what aspects of adaptive management do you feel useful for framing 
+your thinking around those kinds of things? How does it frame the types of questions 
+that you ask in that context? 
+
+ 
+
+SAM: Yeah definitely for reviewing what our objectives are and trying to build a path 
+– working out what actions are available to us and how we can make best use of them 
+to meet our objectives. I think that’s the bit I call on repeatedly. And I think we 
+certainly have this mental idea too – I don’t think we verbalize it as often – but the 
+adaptive part that we try to, at each step we try to record the right information so 
+when there’s an opportunity to improve it in the future we can build on what’s there 
+and improve on it rather than starting from scratch with each new field trip, or each 
+
+
+new data-gathering exercise. We try to create records that can fit together and can be 
+used together in the future. 
+
+ 
+
+SW: And what in your work, as a statistical expert with knowledge in that field, what 
+are the qualities you need as a statistical expert – like, what is a statistical expert? 
+
+ 
+
+SAM: I think, um, a statistical expert is someone who understands that there can be 
+biases in the data collection process and builds plans to minimize the biases. So, for 
+example, when we were thinking about that patchy environment and how to select the 
+sites that we were going to measure, site selection is a process that can bring biases 
+into your work if you don’t do it carefully. And it’s almost always going to bring 
+biases into your work but a statistician has the ability to recognize what those are and 
+address them as best they can, so the data we are getting is creating the kind of – is 
+receptive to the kind of ecological signal that you’re seeking. 
+
+ 
+
+SW: And is there a difference between the qualities of a statistical expert in general 
+and the particular type of skills that you need to apply in the adaptive management 
+project? 
+
+ 
+
+SAM: Yeah, I think so! A more pure statistician will always be focused on what data 
+are available and how to minimize error or confidence bounds around their estimates. 
+I think that’s how a pure statistician tends to focus, whereas in this kind of adaptive 
+management and environmental management you need to be much more mindful of 
+what are the objectives and the decisions the manager is faced with. And sometimes 
+there will be some things that you could estimate and they don’t have to be perfectly 
+accurate, maybe knowing whether the, for example, maybe just knowing ‘is the 
+kangaroo population big or small?’ – maybe that’s, that kind of simple binary signal is 
+enough information for the manager to make a good decision and achieve their 
+objectives. I’m not saying that this is the case for this particular project, but 
+sometimes a coarse signal is good enough for the manager to make an adequate 
+decision, and so that’s what a statistician in this environment needs to recognize: 
+when accuracy is important to making a good decision and when accuracy is not so 
+important to making a good decision. I think it also carries the challenges of what the 
+realities are – that you do need to interact with managers and work together to 
+understand, to work together to develop data collection protocols that are realistic and 
+carry out our intended purpose. A pure statistician often doesn’t concern themselves 
+too much with the collection methods or what mistakes a person could make with the 
+– I think when you get out in the environment it becomes very clear that you could 
+miss plants or you could misidentify plants, and likewise with animals, and that those 
+are processes worth thinking about, and not all pure statisticians are in the business of 
+thinking about those human errors in the process I think. Some are, like there are 
+certainly ecological statisticians who do occupancy modeling and so on who have 
+built excellent models and literature to deal with those kind of mistakes, but I think if 
+
+
+you walked over to the maths and stats department in this Uni, for example, you 
+wouldn’t see too many people thinking about the human error aspects. 
+
+ 
+
+SW: And is it also – I’m just wondering about … We’ve talked about the human 
+errors in collecting data, but when it comes to things like the uncertainties within the 
+ecological dynamics as well, is that something that’s different in terms of whether you 
+can actually get a signal or not on the things you’re trying to do the statistics on? 
+
+ 
+
+SAM: Yeah absolutely, and there’s a lot of conversations too that have to happen with 
+both statisticians and ecologists and managers involved about what are the variables 
+that we should be measuring and whether – and for the vegetation stuff in this project 
+is a pretty clear example of: “do we need to understand every single species and count 
+every single species perfectly? Probably not.” That’s almost certainly not realistic for 
+the managers to do and it’s probably more detail than they need to make a decision. 
+So if we’re not going to count every species perfectly then what do we do instead? Is 
+grouping things into shrubs and trees and grasses enough? And even if we do that, 
+how do we go about measuring them? We tried different things like estimating cover, 
+and counting individuals, and the pointing that Logan did as well, so there are 
+different – even if we agree that shrubs are an important variable, we could think of – 
+I imagine that Logan could easily imagine three or four methods off the top of their 
+head for measuring shrubs. And that’s a – yeah, I think it’s challenging to come to 
+that decision because it’s at this intersection of statistics, ecological surveys, and 
+management interests. All three come into play to try to derive an answer, and so 
+there’s no-one in the project who is a perfect expert in all three things. Most of us are 
+good at one of those things, and can speak the language of the other two, but you 
+would almost never find someone who was a detailed expert at all three of those 
+things, I would think. 
+
+ 
+
+SW: Yeah, and that leads really nicely onto the questions I have about the role of 
+other expertise within the project. I wanted to ask you about the value of other 
+participants, like Logan and Alex, and what kind of questions they really helped you 
+on, and what kinds of questions you turned to them for? 
+
+ 
+
+SAM: Yeah, so initially in the couple of weeks leading up to that field survey they 
+were extremely useful simply for knowing survey methods on the ground. So what 
+are those three or four different ways by which you could measure shrubs? You can 
+put tape measures in a cross, or you can imagine circles, or you can do parallel 
+transects and do pointing – just those different physical layouts of data collection is 
+something that Logan and Alex have a knowledge of, whereas mine is very limited 
+and picked up as I go. They also have a stronger knowledge of – although neither of 
+them work, [neither] of them are experts in that particular part of the state [near 
+Wildlands], they have a knowledge of the general vegetation [in the state] and can 
+make more educated guesses than I can about what species are there, how it might 
+respond to rainfall, and some of those environmental considerations that help you to 
+
+
+decide what are the important variables. So they were – although they weren’t 
+familiar with this very specific ecosystem they had the right language and could ask 
+smart questions about rainfall patterns and which species, plant composition, and all 
+that kind of stuff. 
+
+ 
+
+SW: Were you involved in the – when you were discussing the types of survey 
+method you were going to use, did you also have to be aware of how the uncertainties 
+or the assumptions or choices behind those survey methods would affect any future 
+model that you were going to make in the future? 
+
+ 
+
+SAM: Yeah. So I did have to continue thinking during that process. I would have 
+probably always had our skeleton model of the system in my head – that flow-chart 
+that I’m sure I would have shown you or sent you at some point. I can re-send that if 
+you’d like? To think about what kind of data might come out of those survey methods 
+and whether I could visualize how that monitoring would fit into the kind of model I 
+had at the moment, whether I might need to restructure it, or whether it would take a 
+lot of effort to formalize that link. So some of those methods such as the pointing for 
+example generate hundreds of points of information and it probably wasn’t 
+immediately clear to me how you would condense that into a one or two number 
+measure that would feed into the formal model structure. So I probably didn’t 
+interrogate that too deeply at the time but I would have been thinking about it and 
+aware that conversations would happen – we’d need conversations in the future to 
+create those links. 
+
+ 
+
+SW: Yeah that was interesting as well in the interviews and focus groups and the field 
+trip, we were talking about what kind of constitutes a good method, or what method is 
+good, and I was wondering what you had in mind when you were thinking about a 
+good method for this situation? What that would be for you? 
+
+ 
+
+SAM: Yeah. Certainly from the statistician perspective you want it to be something 
+that corresponds to the true state of nature, to the true state of the ecosystem in a 
+reliable way that you – even though there will be error around your confidence 
+intervals and uncertainty around the true state of the system, that we can feel 
+confident that we understand the nature of that error. So we want a consistent signal 
+out of the method, that it is representing the true state of the system. Certainly I think 
+about – although it’s not my personal area of expertise – I think about whether it’s 
+feasible on the ground. So who is the person who would actually be conducting – 
+actually be doing the method in the field, and what kind of training and knowledge 
+and expertise will that person have, and can we – what kind of instructions can we 
+give them so that we can trust them to carry it out consistently? And obviously it’s not 
+going to be just one person, so what kind of instructions can we issue to twenty 
+people or to a trainer, so we can trust that whoever it is who ends up responsible for 
+doing the survey, that they won’t accidently get the tape measures backwards or be 
+
+
+counting the wrong thing, or any number of mistakes that someone could make if we 
+communicate it poorly. 
+
+ 
+
+SW: And is it necessary to – or are you thinking about these kinds of trade-offs when 
+we are out in the field or when you are doing the monitoring? Are you thinking about, 
+say for instance if you had the pointing method which – as we discussed in the focus 
+group it turned out fairly objective, in a sense – but you’re thinking about whether 
+that data will be useful in your model, and also whether it’s feasible for site staff to do 
+that. Are you thinking about those kinds of trade-offs? 
+
+ 
+
+SAM: Exactly, yeah. I was thinking about those things as we were doing it in the 
+field. So I guess one of the very coarse ways of thinking about was just within the 
+group of us we had quite a variety of experience within the people in our group, so if 
+a method was described in our plan, sure we know that Logan could do it, [but] could 
+I do it if someone gave me the instructions? Could Riley do it? Could you do it? And 
+those were good tests. And I don’t know – I couldn’t anticipate exactly what the site 
+staff’s abilities would be, and in fact just during the time that we spoke with Tony [a 
+member of the site staff] during that trip I developed different expectations about 
+what they might be good at and what they might not be good at. And Tony is just one 
+member of the site staff, I don’t know what the other dozen site staff in that region 
+might be capable of or what might not be willing to do. So yeah, I didn’t have a full 
+picture of what we could expect the Authority staff to do – we need to continue 
+consulting with the Authority to work that out – but I was certainly thinking about the 
+different methods. And so the pointing for example – laying out the measures with the 
+pointing tape was very repeatable. Whether – but the decision about identifying the 
+thing at the end of the stick might be quite variable from person to person. Some of us 
+would recognize a weedy grass from a native grass and some of us would not among 
+the group, and so we need to think later about whether that was important or not. And 
+meanwhile the method of just looking at the – I think it was a two-meter by two-meter 
+square and just saying, “aw, that looks like five percent litter.” Logan has done that a 
+lot so had some confidence – Logan certainly verbalized some confidence in the 
+estimates but some of us would struggle. Or some of us would have lower confidence. 
+And that method in the scientific literature has been shown to be pretty unreliable I 
+think. Even – if you got six people who thought they were experts doing that you’d 
+still see a lot of disagreement among their estimates, so … So certainly the pointing 
+method is more repeatable but it’s still got this ID’ing error, whereas I think the cover 
+thing has got ID’ing and estimation errors all over it. 
+
+ 
+
+SW: And in the interview, I think, or the focus group, you mentioned that there were 
+moments where you had to compromise on the idealism of statistics. And I was 
+wondering if you could just expand on that a little bit? What the idealism – the 
+idealistic parts – are, and where you had to compromise? I think we spoke a little bit 
+about it earlier, but … 
+
+ 
+
+
+SAM: Yeah so imagine that I was … What I recall from that trip is – probably the 
+patchiness is the issue that kept coming up for me, and about how to deal with that, so 
+… Yeah, the idealized version would be to randomly select locations in space, 
+perform the methods, and get this landscape-level estimate of how many seedlings are 
+out there, and the reality was that seedlings were very difficult to find at all, so if we 
+wanted to take any seedling measurements we kind of had to target our efforts 
+exclusively to places where we found seedlings. And so that was a departure from my 
+original statistical ideal of getting a landscape-scale estimate and instead focusing on 
+places with seedlings. So if we took the data that we collected from that experiment 
+and built some estimates of seedling density there’d be a massive overestimate of the 
+true density of seedlings in that Park. Because we were just going to places with 
+seedlings – it was a very conscious bias in the way we selected our sample. 
+
+ 
+
+SW: And thinking about resolving that in the future – where will that decision be 
+made to address that? 
+
+ 
+
+SAM: Yeah. I think – so something that I … Again, it goes back to what your 
+objectives are, and I think it seems to me that we all come up with different answers 
+to serve different objectives. So for example if what we want is to estimate the 
+overarching state of the landscape, so we can make an overarching decision about 
+kangaroo culling or other management actions, then you’d need a randomized sample. 
+So you’d need to select our patches randomly across that entire space and accept 
+whether or not there are seedlings in there. We need to collect those zeros as well to 
+get that overall picture. But if your purpose is to take a protective action – so for 
+instance if you want to put guards around individual seedlings or a fence around 
+individual seedlings to try to protect them from grazing, then you need to find them. 
+And so again that would be doing a survey where you focus on places where there’s 
+lots of seedlings, so you can take photos of them and measure them and point, and say 
+to the managers, “there! There’s something worth protecting in that spot right there.” 
+So those are two different purposes that I think we need to review with the Authority 
+staff. And possibly offer two or three different survey designs in the report, so they 
+can understand and have the option – the flexibility themselves of deciding what their 
+objective is at any point in time, and what they need to do to fulfill it. 
+
+ 
+
+SW: Yeah, and that will be – will that be what you discuss in the meeting with Robin 
+in July, this month? 
+
+ 
+
+SAM: Yeah, so we haven’t set a date for that meeting yet, I’m waiting for Val to get 
+back from travelling. But I think that’s something I want to raise at that meeting … I 
+guess there’s a third purpose for monitoring as well, and that third purpose is to 
+trigger other actions … So I guess the first purpose I was thinking about was getting 
+that landscape-scale picture, and so that’s the question of has our management 
+strategy overall been yielding results that we like? And the second thing I talked 
+about was about taking conservation actions. It could be that we need monitoring to 
+
+
+develop particular other signals. So maybe a kangaroo cull would need to be triggered 
+by evidence that woody plants are under threat, so people see a certain rainfall 
+pattern, they want to go out and measure: is there enough grass for kangaroos to eat at 
+the moment or not? That’s just a proposed – I’m not sure whether that would be a 
+meaningful survey design for them or not, but that might be something that they’re 
+looking for as well, is evidence of an immediate threat to the – not just a generalized, 
+‘hey, we know kangaroos and rabbits are grazing on seedlings,’ but at this point in 
+time is there an immediate threat of grazing on the seedlings? Do we need to act now 
+or do we feel comfortable that there are enough other food sources? 
+
+ 
+
+SW: Yeah, and that brings up a question that I wanted to ask about the possible 
+tension or trade-off between basing your management regime on monitoring if you do 
+desire to have that reactive process in place. Whether there is a slight trickiness 
+between monitoring seedlings, but then if you’re trying to pre-empt threats to those 
+seedlings you almost need to do the action before you record any of that happening 
+actually in the landscape? 
+
+ 
+
+SAM: Yeah that’s right, and that has been shown to be a tension in this project. That 
+that kind of response, it might be too late – by the time you’ve seen grazing evidence 
+on the ground, it’s happened! [Laughs]. And the seedlings are in threat right now, and 
+the permitting process to enact a kangaroo cull is too slow in order for you to stop that 
+grazing that is happening right now. That was certainly something that the managers 
+have communicated to us, and so for example it might be that monitoring – on-ground 
+monitoring – is not the answer to that at all. It could be that Bureau of Meteorology 
+rainfall data is enough that, or is the best opportunity we’ve got to predict kangaroo 
+densities, and therefore predict the threat at a particular point in time. And that’s 
+obviously got more error attached to it because you’re translating a rainfall into a 
+kangaroo population growth number. There are more steps along the way and more 
+error propagating, but it might be that it’s something you can do much more quickly 
+and therefore the management can swoop in and take effect more quickly. So I guess 
+that’s one of those cases where as a statistician you are not looking for the most 
+accurate method necessarily, you are looking for one that comes in at the right time, 
+and allows management to respond at the right time. 
+
+ 
+
+SW: Yeah. And I was wondering whether you see this project as more of a passive or 
+active adaptive management in the sense that perhaps depending on these different 
+approaches you could take there might be a slightly different emphasis on either a 
+more proactive style or a more reactive style? 
+
+ 
+
+SAM: Yeah absolutely. And I think the ongoing discussions that we’ve had about 
+exclosures are at the crux of that. I think what we would communicate in this first 
+report would mostly – we want to help them set up the framework to do passive 
+adaptive management in the first instance. But there could be – it could be possible 
+for them to accelerate their learning if they do things like setting up exclosures. So I 
+
+
+would see that we are trying to offer them a passive adaptive management framework, 
+but giving them hints about what the opportunities would be for active adaptive 
+management for them to think more about. 
+
+ 
+
+SW: And have you thought about other potential ways that you could do active 
+adaptive management without exclosures? With other tools that you could use? 
+
+ 
+
+SAM: Yeah it’s possible depending on what the key uncertainty is, if the key 
+uncertainty was about vegetation it might just be that you’ve got to wait for the right 
+rainfall pattern, and when the right rainfall pattern happens you can do extra 
+monitoring and learn more about the vegetation response to rainfall. If the key 
+uncertainty is in the kangaroo population response, then you could alter the harvest 
+rates, the cull rates, to learn more about the kangaroo population response to culling. 
+If the key uncertainty is about kangaroo movement, then putting radio collars on some 
+kangaroos might be the way to resolve that. We’re not anticipating that the kangaroo 
+population is where the uncertainty is going to be because there has been lots of 
+research about kangaroos in Australia. There’s lots of systems to draw that kind of 
+information from. Now I could be mistaken, but I think at this stage it’s anticipated 
+that the kangaroos are one of the better understood bits and the vegetation is what 
+we’re unsure of. But that hasn’t been confirmed with a formal model at this point. 
+
+ 
+
+SW: Yeah, I’d like to fit that in before you head off, is where you see the process for 
+building a formal model and how you’re conceiving of that after you’ve gone to the 
+pilot study and talked about the monitoring methods and stuff like that? 
+
+ 
+
+SAM: Yeah. So we have this sort of flow chart at the moment that is the overarching 
+framework – just about what the different components are in the system and how they 
+interact with each other, and it doesn’t have any … So it has arrows and it has 
+connections, and it has ideas about the causal relationships – but it doesn’t have any 
+numbers or articulated quantities – there’s no quantitative response attached to it at 
+this point. And so I think the next steps would be to break down into subsets of that 
+model and work out those relationships. So the model is, I think, a bit too complicated 
+to put the whole thing in front of someone and say, “fill this in!” So I think it would 
+be more achievable to break it down into small components and first understand, 
+“how does this rainfall affect vegetation if there are native grasses present? When do 
+they grow? When do they die back? What are the rainfall patterns that affect that?” 
+And so on. And we can do that by a combination of asking experts again, the people 
+that were at our workshop, and in the second instance just going to the literature, the 
+existing literature. And I imagine we’ll do a combination of those two things 
+probably. Start with the literature to come up with some ideas, take it to the experts 
+and find out if we’ve got the right idea or not, whether there’s anything we’re 
+missing. 
+
+ 
+
+SW: And which experts were they? Were they the participants in the workshop? 
+
+
+ 
+
+SAM: That’s right, yeah. So a number of – there would be half a dozen people within 
+the Authority that would be suitable experts, but there are also a couple of academics 
+at universities and other research institutes that know the system well. 
+
+ 
+
+SW: And would these be people that have personal knowledge of the actual 
+ecosystem or would they be people with conceptual knowledge? 
+
+ 
+
+SAM: Yes. They’d be people with a working field knowledge, mostly. So yeah, site 
+staff who spend time in the Park, or who have spent time in the Park in the past, so 
+Robin for example sits in an office in the state capital now but spent five years out in 
+a town near Wildlands, so Robin knows the area. And the university experts would 
+have conducted field work out there, yeah. 
+
+ 
+SW: And so in the process of going back to the experts – is it a process of asking 
+them whether the model fits with their understanding, or their conceptual model of 
+how the system works? 
+
+ 
+
+SAM: It’s something I grapple with and I haven’t worked out the best approach yet. I 
+think there’s – in some ways I’m reluctant to go to them with a blank page … [laughs] 
+… 
+
+ 
+
+SW: Why is that? 
+
+ 
+
+SAM: I think it’s important to assure them that we’ve thought about it, and we’re not 
+completely stupid. But at the same time any information you bring them can 
+potentially bias the way they look at the system. So I’m really – I’m quite unsure still 
+of the best ordering of combining research literature and what’s in people’s heads, 
+what the experts think. 
+
+ 
+
+SW: How might it work to bias the way people look at the system? 
+
+ 
+
+SAM: I think there’s reasonable evidence of anchoring in the social science literature. 
+If you give a person a piece of information, even if they agree with it their response to 
+you is likely to be closer to the value you’ve offered them then if you gave them a 
+completely blank page. And so I’m mindful that I could be doing that if I feed them 
+too much, they might just go, “yeah that looks about right.” Or, “make the number a 
+bit higher.” 
+
+ 
+SW: And where will this model fit with the existing models that are being used in that 
+management process at the moment? We have the Rainfall Model and then we also 
+have Jackie’s model, the catch-per-unit-effort – I’m not actually sure if it was trialled 
+this cull or not? 
+
+ 
+
+
+SAM: No, they didn’t enact it during their cull so they went about their cull in their 
+usual way, and one of the tasks for Val and I to hand in with this report is to sort of 
+run Jackie’s analysis on top of that data and discover would Jackie’s model have told 
+them to stop culling at a different point compared to what they – what decision they 
+made. 
+
+ 
+
+SW: And what will your model – or the potential model – what gaps will it fill in? 
+
+ 
+
+SAM: Yeah, so I think the intention, if we can work it out and develop something that 
+everyone thinks is worthwhile, it would replace the Rainfall Model, so it would be a 
+different way of predicting how the kangaroo population changes. Jo’s model doesn’t 
+say anything about the way vegetation changes at all, so it would, in addition to 
+making predictions about kangaroo population change it would give us bonus 
+information about vegetation response. We haven’t – we’re too far away at this point 
+to talk about changing the cull strategy itself, although I imagine that if we can build a 
+formal model that the Authority likes then we’ll begin a conversation about how they 
+make the cull decisions. When and how many kangaroos to take. So we’ll be able to 
+play around with our model and try different scenarios and explain more whether the 
+current strategy is the best way to go about meeting their objectives or whether there 
+might be other strategies. And that’s the kind of thing that Val and I are pretty good at 
+and like to do. I think we could happily play around with the theory inside the model 
+for a while and then take some alternatives to the Authority. A small selection of 
+ideas once we’ve done that. 
+
+ 
+
+SW: And what kind of things will you be thinking about during that process about the 
+factors that come into the way that you’ll build that model? 
+
+ 
+
+SAM: I think something that will come into that is whether we’ll have this extra layer 
+of vegetation that’s now introduced into the model, that has not been in Jo’s Rainfall 
+Model. It might tell us that, well, I think it’s fairly logical to say, “if there’s no 
+seedlings on the ground, grazing doesn’t really pose a threat because there’s nothing 
+to protect.” And so having that extra layer of information about vegetation in the 
+model might be able to tell us something about when there are seedlings that need to 
+be protected. And tell us something about whether kangaroo culls do protect seedlings 
+or not. The model at the moment – Jo’s Rainfall Model – assumes that by keeping 
+population growth down to a certain level that a consequence will be seedling 
+protection. But that’s not formalized in Jo’s model. 
+
+ 
+
+SW: And when you say formalized you mean … 
+
+ 
+
+SAM: … it’s not a variable that’s – it’s not a variable that evaluated quantitatively at 
+all. If you read Jo’s initial reports it will verbalize that logic, that less kangaroos 
+means more seedling regeneration. 
+
+ 
+
+
+SW: And with the time aspects of monitoring, it is interesting that we were just 
+talking about, you know, if there are no seedlings then the cull is not useful – is there 
+a potential that the model might address when you actually need to think about doing 
+monitoring? Like whether you do monitoring on a three-year or five year cycle? 
+
+ 
+
+SAM: Exactly, that’s right. So there might be times where monitoring vegetation is 
+crucial and other times where it is not. So if the kangaroo population is low and 
+grazing pressure is low, then maybe you don’t need to know about seedlings because 
+you can trust that the ones that are out there are adequately protected. And likewise, 
+there might be times when knowing the kangaroo population size is very important, 
+and there might be times when knowing the kangaroo population size is not very 
+important. If, yeah, if there’s no seedlings to protect, then maybe you don’t care about 
+grazing pressure that year, and so it’s not important to know exactly what the 
+kangaroo population size is. There might be other – thinking about time – there might 
+end up being long-term benefits to maintaining that monitoring, so even if we trust 
+that seedlings are, there’s no threat to seedlings this year, knowing the kangaroo 
+population size helps us to project one and two and three years into the future about 
+what might happen. Yeah, and so having an iterative time-dependent model, that 
+might help us predict things dynamically through time, [and] will be important for us 
+to evaluate the benefits right now in this season and the longer-term benefits of 
+management over multiple years. 
+
+ 
+
+SW: And what do you foresee as the main difficulties or challenges to building this 
+model? Particularly thinking about the sporadic nature of this system. 
+
+ 
+
+SAM: Yeah, I think one of the – the big challenge that we’re grappling with is 
+identifying what those vegetation variables need to be. How it is that we characterize 
+this complicated landscape into a few different compartments that we can measure on 
+the ground, that we can keep – where we can characterize the change in them from 
+year to year … I think it’s a challenge because they’re the crucial link between the on-
+ground measurements and the formalized model, and the kind of decision-making that 
+happens in the model space. 
+
+ 
+
+SW: Yeah. I’m more or less finished, I’ll let you get on in a second, I’ll just check and 
+see if there’s anything we haven’t covered. 
+
+ 
+
+SAM: It’s OK. 
+
+ 
+
+SW: Yeah so we’ve spoken about the importance of objectives to the design of the 
+monitoring and the design of the project, and I think you mentioned in the interview 
+that you were sometimes unsure of the ones that were still important to the Authority, 
+because there was this – there have been different people in charge at different times 
+with different objectives? 
+
+ 
+
+
+SAM: Yes. 
+
+ 
+
+SW: And I just wanted to pick up on that bit and I wondered if you could just describe 
+how that makes life difficult for you? [laughs] 
+
+ 
+
+SAM: [Laughs]. Yeah absolutely. Yeah, and I mean essentially I’ve been hired to 
+deliver something to the Authority, to deliver a report to them, and I want the 
+information in that report to be what they’re seeking from us. And so I need to be 
+really clear with my colleagues in the Authority about what their expectations are, and 
+how we can meet them. But also as a scientist I need to think about, “well, they have 
+this management problem, what do I think are the kinds of solutions that they need?” 
+For example, maybe they want me to deliver one type of report, and I think that 
+they’re missing a crucial – as a scientist I might think that there is a crucial piece of 
+the problem that they’re just not thinking about, and so sometimes I might try to show 
+that to them as well. But I would certainly always try to show that to them with 
+ongoing discussions and work out if we can come to an agreement rather than 
+surprising them with something in the final piece. But I think in both cases the 
+confusion with this project has been about whether it’s more important for them to 
+receive the formalized model, or to receive a monitoring plan. And so different people 
+in our group – different researchers in the university group had different impressions 
+in the past, and in fact when we had a meeting with our Authority colleagues, the 
+message we got was the thing that they want the most is the adaptive management 
+framework – the details of the monitoring plan, or the details of the formalized model 
+are secondary to us providing them with an adaptive management structure. 
+
+ 
+
+SW: And what do they mean, do you know, by ‘adaptive management structure’? 
+
+ 
+
+SAM: Well yeah, you know – I’ll continue, I started sketching out some headings for 
+the report and sketching out what might go into each section, and the way I’m 
+visualizing that at the moment is we need to break it into, ‘what are the objectives of 
+the project?’ ‘what are the actions available to the managers?’ ‘What are the state 
+variables that need to be taken into account?’ ‘What kind of model will link these 
+things – what kind of model do we recommend and what kind of monitoring do we 
+recommend to link these things together and help them to make decisions?’ And so 
+obviously the formalized model fits into that bit at the end, and the fieldwork and the 
+monitoring talks we’ve had fit into the state variables and the linking model aspects as 
+well, so those are all important supporting information, but that’s how I envisage the 
+overall structure of adaptive management for this project and how the report will look 
+as well. But, um, I’ll share that with Robin when we have a meeting later this month 
+to check whether that meets their needs. 
+
+ 
+
+SW: And you might not feel that you’re placed to answer this question, but I was 
+wondering where you think that drive or that desire to have that adaptive management 
+structure is coming from? 
+
+
+ 
+
+SAM: Yeah, I think there’s certainly a drive within the Authority to do that, and I 
+think they’ve got some official documents fairly high up in the organization that want 
+to see adaptive management rolled out for all, almost, of their decision-making issues. 
+And I’m pretty sure that Leslie has voiced that, particularly for that broader Wildlands 
+region, so we’ve got that bird project and also this kangaroo project. These are – these 
+we hope will set an example for how adaptive management could be carried out and 
+serve as templates for other people to get ideas from and carry out future adaptive 
+management work. 
+
+ 
+
+SW: Yeah I wanted to follow up on that actually because you mentioned Leslie in the 
+interview – that you were talking with Robin and Leslie – and I just wanted to check 
+who Leslie was? 
+
+ 
+
+SAM: So Leslie – yeah I think you’re spelling the name correctly there – is Robin’s 
+boss. I’m not exactly sure what Lesley’s job description is, but it seems to involve a 
+lot of, sort of, research – not personal research, but Lesley’s in charge of a lot of the 
+research interactions … 
+
+ 
+
+SW: So Lesley might be … 
+
+ 
+
+SAM: I can look up their email signature and forward that on to you perhaps. 
+
+ 
+
+SW: I think Lesley might be potentially the person who is the head of the research 
+department of the Authority. 
+
+ 
+
+SAM: That sounds about right, yeah. 
+
+ 
+
+SW: And was it a difficulty for you, or was it difficult that you’d been handed the 
+project from someone else? That you didn’t participate in the design of it at the very 
+beginning? 
+
+ 
+
+SAM: Yeah I think that is certainly a challenge with this kind of project, that there 
+was obviously a history, a range of discussions and an agreement developed prior to 
+my entering the project, and so not being involved in those discussions meant that I 
+felt a step behind as to what the expectations were, but at the same time Blair [at the 
+University] has given Val and I a lot of autonomy and a lot of space to make it into 
+what we want. And also Jackie made it – if we look at the initial research agreement, 
+and in speaking with Jackie also, their choice to hire Val and I meant that what is 
+written in the original research programme is quite different to what Val and I are 
+actually doing. So for example a lot of the funding in the original contract was about 
+buying fences and about getting a masters student to put up exclosures. And Jackie 
+and Blair changed their expectations about what the project would be before they 
+even hired Val and I so they made it quite clear that what was written in that 
+
+
+description was not exactly what was expected of us, and that they were OK with that. 
+So I think perhaps even if Jackie had been running the project instead with Jackie’s 
+full knowledge and relationship with the Authority, I’m sure they [the University and 
+the Authority] would have had to have repeated negotiations anyway to – as the 
+project evolved – to check that it was meeting everyone’s expectations. 
+
+ 
+
+SW: Do you know why that funding, for instance with the exclosures, why that 
+changed? 
+
+ 
+
+SAM: I don’t know. I think perhaps they had someone in mind to do that work, and 
+then that person was no longer available to do that masters project. I think that fell 
+through. But yeah, there were other aspects within the description that were about 
+running workshops and developing structures, and those are the things that Val and I 
+are doing. So I guess the budget and the way we’ve spent the money looks very 
+different to what the original agreement was but we’re still supplying a lot of the same 
+intellectual research that was described in the original proposal, just the field research 
+has been less and quite different. 
+
+ 
+
+SW: Yeah. And finally I just wanted to ask what you think the key decisions have 
+been that you have made in the project so far, the key points where you had to decide 
+to do something or not, or have done different things perhaps, and where you think 
+the key decisions will be in the next few months? 
+
+ 
+
+SAM: Certainly leading the workshop was a big point early in the project, and so 
+making a decision about what topics to talk to the experts about, and to what extent to 
+let them carry the conversation in directions that they liked versus insisting on them 
+covering certain topics that we wanted, that was a big point. So for example there 
+was, I think there was a big discussion at that workshop about … Val and I as 
+population modelers always think about extinction possibility, for the kangaroo 
+population for example. We know that they don’t want the kangaroo population to get 
+too high because that results in grazing pressure and reduced survival and fitness for 
+the seedlings. But we figured that they probably – you know, kangaroos are a native 
+animal – and they probably don’t want them to be wiped out from the system entirely, 
+and so we wanted to talk to them about, “well, how would we know if kangaroo 
+population density got too low, could we put a number on that, is that something we 
+could measure?” And they just did not want to talk about it. They thought it was a 
+stupid idea because kangaroos would never – could never get hunted to extinction in 
+this area, and so that was a real, just kind of – I don’t know how to describe it – a real 
+mismatch between the way that population modelers conceive of the system versus 
+how a pragmatic ecologist observes the system. And so it was – we really had to think 
+carefully about how to reframe that problem as a result of that discussion. So we 
+wanted to have a discussion about probability of extinction or measures of low 
+kangaroo density that they would worry about, and they just didn’t want to talk about 
+it in those terms. 
+
+
+ 
+
+SW: So how did you reframe that? 
+
+ 
+
+SAM: Well I think a couple of members of the group helped in that process, so one of 
+the Authority managers noted that there is a – tourists do have an expectation of 
+seeing kangaroos in the Park, for example, and so there would be a point at which 
+tourists not seeing kangaroos in the Park would be a problem for them. And Leslie 
+said, “well, from their perspective, with animal welfare considerations and so on, they 
+don’t want – they want to be culling the minimum number of kangaroos possible 
+while still meeting their objectives.” So rather than putting it in terms of low kangaroo 
+numbers on the ground, Leslie put it in terms of low kangaroo numbers in the cull. So 
+that was a really useful rephrasing for us. Let me think about other big decision-
+making moments … For me, creating the flow-chart, which is the model structure, the 
+first start of the formalized model, was a big decision-making point. So making 
+decisions about how to characterize the vegetation in that model was, for me, quite 
+challenging. So I put boxes with names like, ‘native grasses,’ ‘exotic grasses,’ 
+‘shrubs,’ ‘pine seedlings,’ ‘ironwood seedlings,’ ‘mature pines,’ ‘mature ironwood,’ 
+and circulated that with our Authority contacts to work out whether they were 
+comfortable with that kind of characterization. And they said yes, so that’s kind of 
+what we’re going with at the moment. But it will be kind of be interesting to discover 
+as we try to put quantities on that model whether those are still useful or not. 
+
+ 
+
+SW: And so the flow-chart is important because it frames the structure of your 
+activities? 
+
+ 
+
+SAM: That’s right, so when we think about monitoring we’ll be trying to develop 
+monitoring that looks like it feeds into that model. When we’re developing quantities 
+and management decisions it’ll be in terms of that framework. And we might discover 
+along the way that it’s not the best decision and we need to adapt it and change it. But 
+by having that – it’s good because it’s a common communication tool, but it also 
+means that it is going to direct our future work. And so it may or may not – hopefully 
+it directs us down a useful path, but there’s a risk that it’ll direct us down a frustrating, 
+not useful path as well. 
+
+ 
+
+SW: And what do you think could be the big points in the next couple of months? 
+
+ 
+
+SAM: I think that obviously we’ve got this report due in two months, so completing 
+that and handing that in, and I think the big challenge for creating a good quality 
+report will be whether we can – I know I have an idea for what this overarching 
+framework is going to look like – and whether we can look at the field study we did 
+and fit that in a logical way, and communicate that well, and likewise with the model 
+we’re still formulating. Whether we can communicate the right story to the Authority 
+about how all these small pieces fit together. So the fieldwork and Jackie’s model, 
+and playing with the new data with Jackie’s model – we’ve got three or four little bits 
+
+
+of work which all fit into this adaptive management structure but it’ll be a challenge 
+to communicate that I think, to fit that all together. 
+
+ 
+
+SW: Why do you think that’ll be a challenge? Is the last question … 
+
+ 
+
+SAM: I guess because we have embarked on them as these little, different 
+components of the work. So I did talk about having the flow-chart in mind when we 
+were doing the fieldwork, but with the fieldwork we focused on some short-term 
+monitoring objectives rather than the overall landscape long-term objective for 
+example, so we’ll need to work hard to convince the Authority that we’ve got insights 
+that will help them with their long-term monitoring, out of that small piece of work, I 
+think. 
+
+ 
+
+SW: Right. Yeah thanks so much for taking the time. It’s been great. 
+
+ 
+
+[End of interview] 
+
+
