@@ -98,6 +98,8 @@ If this doesn't work, you might have to download manually and install. Please fo
 
 **Slides:** The presentation fies are avaliable as Powerpoint.
  
-**Dataset:**Transcribes of interviews as text file. The datasets are from the research project that explored the science and practice of ecological monitoring for adaptive management. The team conducted a qualitative case study of a project intended to develop an adaptive management approach to vegetation restoration in the ‘Wildlands National Park,’ Australia (hereafter referred to as 'the Wildlands AM project'). ‘Wildlands’ is a pseudonym – all place and personal names associated with the AM project have been changed to protect the participants’ anonymity. The data is avaliable for under CC0 "Public Domain Dedication" via Havard dataverse. 
+**Dataset:** We have two sets of data. 
+1. From customerservicescoreboard.com , 3 postive and 3 negative comments. (will use for practice) <br>
+2. Transcribes of interviews as text file(as reference to realword fieldwrork datasets). The datasets are from the research project that explored the science and practice of ecological monitoring for adaptive management. The team conducted a qualitative case study of a project intended to develop an adaptive management approach to vegetation restoration in the ‘Wildlands National Park,’ Australia (hereafter referred to as 'the Wildlands AM project'). ‘Wildlands’ is a pseudonym – all place and personal names associated with the AM project have been changed to protect the participants’ anonymity. The data is avaliable for under CC0 "Public Domain Dedication" via Havard dataverse. 
 
 ## Other Resources
