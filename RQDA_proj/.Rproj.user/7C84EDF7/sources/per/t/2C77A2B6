@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569911763105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2331184908",
+    "id" : "2C77A2B6",
+    "lastKnownWriteTime" : 1570078530,
+    "last_content_update" : 1570078530161,
+    "path" : "C:/Users/jw9/Desktop/RQDA_proj/Example Codes.R",
+    "project_path" : "Example Codes.R",
+    "properties" : {
+        "cursorPosition" : "19,45",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
